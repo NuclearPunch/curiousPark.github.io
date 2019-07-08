@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "박궁금의 개발스토리"
+title                    : "개발자로 살아남기"
 title_separator          : "-"
 name                     : "Curious Park"
 description              : "An dev blog"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "박궁금"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello World"
+  bio              : "배운걸 정리하고 공유합니다 :)"
   location         : "Seoul, South korea"
   email            : "curios.hsu@gmail.com"
   links:
